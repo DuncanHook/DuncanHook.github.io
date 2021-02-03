@@ -3,8 +3,6 @@ logo: "/images/ProfilePic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   SPU Computer Science 2021 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://www.linkedin.com/in/duncan-hook/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
