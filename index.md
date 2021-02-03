@@ -2,20 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Prolog Geometry
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<ul>
+  <li>
+      Prolog program to determine the properties of various types of triangles using Prolog.
+  </li>
+</ul>
+
+[GitHub](https://github.com/DuncanHook/Prolog-Geometryy)
+<br>
+<img src="images/prolog.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Time Complexity Analysis
 
