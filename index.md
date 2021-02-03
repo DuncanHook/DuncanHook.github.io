@@ -26,7 +26,7 @@
 </ul>
 
 <br>
-<embed src="pdf/Time Complexity Analysis.pdf" width="500" height="500" 
+<embed src="pdf/TimeComplexityAnalysis.pdf" width="500" height="500" 
  type="application/pdf">
 <br>
 
