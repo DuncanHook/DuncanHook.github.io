@@ -31,6 +31,7 @@
 <br>
 
 ---
+
 ### Long Distance Deployer System Specification
 
 <ul>
@@ -45,6 +46,7 @@
 <br>
 
 ---
+
 ### Microsoft AI-100 Certification
 
 <ul>
@@ -57,7 +59,6 @@
 <embed src="pdf/AI-100certification.pdf" width="500" height="500" 
  type="application/pdf">
 <br>
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
