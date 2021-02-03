@@ -10,7 +10,7 @@
   </li>
 </ul>
 
-[GitHub](https://github.com/DuncanHook/Prolog-Geometryy)
+[GitHub](https://github.com/DuncanHook/Prolog-Geometry)
 <br>
 <img src="images/prolog.PNG?raw=true"/>
 
