@@ -7,6 +7,7 @@
 <ul>
   <li>
       Prolog program to determine the properties of various types of triangles.
+  </li>
 </ul>
 
 [GitHub](https://github.com/DuncanHook/Prolog-Geometry)
