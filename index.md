@@ -8,6 +8,9 @@
   <li>
       Prolog program to determine the properties of various types of triangles.
   </li>
+  <li>
+      Created Individually
+  </li>
 </ul>
 
 [GitHub](https://github.com/DuncanHook/Prolog-Geometry)
@@ -22,9 +25,29 @@
   <li>
       Scheme program to determine the properties of various lines and types of triangles.
   </li>
+  <li>
+      Created Individually
+  </li>
 </ul>
 
 [GitHub](https://github.com/DuncanHook/Triangle-Line-Scheme)
+<br>
+<img src="images/prolog.PNG?raw=true"/>
+
+---
+
+### Rust Parser
+
+<ul>
+  <li>
+      A parser created in Rust meant to ingest a statement and determine whether or not it fits into the set grammar.
+  </li>
+  <li>
+      Created Individually
+  </li>
+</ul>
+
+[GitHub](https://github.com/DuncanHook/Prolog-Geometry)
 <br>
 <img src="images/prolog.PNG?raw=true"/>
 
@@ -35,6 +58,9 @@
 <ul>
   <li>
    A paper which covers a time complexity analysis of recursive and iterative implementations of a power function. The code is written in C++ and it was graphed using RStudio
+  </li>
+  <li>
+      Created Individually
   </li>
 </ul>
 
@@ -50,6 +76,9 @@
 <ul>
   <li>
    A paper which covers a theoretical system that would allow an individual to work on a project from home using their work equipment using a virtual machine. A system which would allow employees to work from home given the need to, but allow them to use their possibly much more powerful computers that they have at the office.
+  </li>
+  <li>
+      Created Individually
   </li>
 </ul>
 
