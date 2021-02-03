@@ -6,11 +6,24 @@
 
 <ul>
   <li>
-      Prolog program to determine the properties of various types of triangles using Prolog.
-  </li>
+      Prolog program to determine the properties of various types of triangles.
 </ul>
 
 [GitHub](https://github.com/DuncanHook/Prolog-Geometry)
+<br>
+<img src="images/prolog.PNG?raw=true"/>
+
+---
+
+### Scheme Geometry
+
+<ul>
+  <li>
+      Scheme program to determine the properties of various lines and types of triangles.
+  </li>
+</ul>
+
+[GitHub](https://github.com/DuncanHook/Triangle-Line-Scheme)
 <br>
 <img src="images/prolog.PNG?raw=true"/>
 
