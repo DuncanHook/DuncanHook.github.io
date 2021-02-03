@@ -27,7 +27,7 @@
 
 [GitHub](https://github.com/DuncanHook/Triangle-Line-Scheme)
 <br>
-<img src="images/prolog.PNG?raw=true"/>
+<img src="images/Scheme.PNG?raw=true"/>
 
 ---
 
@@ -41,7 +41,7 @@
 
 [GitHub](https://github.com/DuncanHook/Prolog-Geometry)
 <br>
-<img src="images/prolog.PNG?raw=true"/>
+<img src="images/Rust.PNG?raw=true"/>
 
 ---
 
