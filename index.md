@@ -44,6 +44,19 @@
  type="application/pdf">
 <br>
 
+---
+### Microsoft AI-100 Certification
+
+<ul>
+  <li>
+   A paper which covers a theoretical system that would allow an individual to work on a project from home using their work equipment using a virtual machine. A system which would allow employees to work from home given the need to, but allow them to use their possibly much more powerful computers that they have at the office.
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/AI-100certification.pdf" width="500" height="500" 
+ type="application/pdf">
+<br>
 
 
 ---
