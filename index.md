@@ -17,13 +17,19 @@
 
 ---
 
-### Category Name 2
+### Time Complexity Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<ul>
+  <li>
+    Paper which covers a time complexity analysis of recursive and iterative implementations of a power function.
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/Time Complexity Analysis.pdf" width="500" height="500" 
+ type="application/pdf">
+<br>
+
 
 ---
 
