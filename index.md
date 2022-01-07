@@ -4,7 +4,8 @@
 
 <ul>
   <li>
-    My senior project from SPU. I together with my 3 teammates created a voice assistant focused on Software Developers.It can search (some) code documentation with a voice         prompt such as "aYo, c++ vectors" and it will take you to the C++ reference page for vectors. It also supports general things such as playing music, asking it to set an         alarm, do a general search without searching official documentation, etc. <br>
+    My senior project from SPU. I together with my 3 teammates created a voice assistant focused on Software Developers.It can search (some) code documentation with a voice         prompt such as "aYo, c++ vectors" and it will take you to the C++ reference page for vectors. It also supports general things such as playing music, asking it to set an         alarm, do a general search without searching official documentation, etc. <br><br>
+    For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOugluAI?t=53)<br>
     Created as a Group
   </li>
 </ul>
