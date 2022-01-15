@@ -24,10 +24,12 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
 </ul>
 
 <img src="images/Dungeon of Squares Images/base screen.png?raw=true"/>
-<img src="images/Dungeon of Squares Images/base screen moved.png?raw=true"/>
-<img src="images/Dungeon of Squares Images/Combat.png?raw=true"/>
-
 <br>
+<img src="images/Dungeon of Squares Images/Base Screen Moved.png?raw=true"/>
+<br>
+<img src="images/Dungeon of Squares Images/Combat.png?raw=true"/>
+<br>
+
 [GitHub](https://github.com/DuncanHook/Dungeon-of-Squares)
 <br>
 ---
