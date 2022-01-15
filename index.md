@@ -21,10 +21,10 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
     A small game created in Qt. The player is tasked with getting through 3 floors, and after accomplishing that task it becomes a survival challenge asking the player to get as     far as they can. I created the enemy movement system, which is randomly moving across the board to pose as obstacles to the player. And I also created the combat system         which is a psuedo blackjack style game.<br>
     Created as a Group
   </li>
-  <li>
-    <img src="images/Dungeon of Squares Images/base screen.png?raw=true"/>
 </ul>
-  
+<img src="images/Dungeon of Squares Images/base screen.png?raw=true"/>
+<img src="images/Dungeon of Squares Images/base screen moved.png?raw=true"/>
+<img src="images/Dungeon of Squares Images/Combat.png?raw=true"/>
 [GitHub](https://github.com/DuncanHook/Dungeon-of-Squares)
 <br>
 ---
