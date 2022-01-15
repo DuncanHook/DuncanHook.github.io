@@ -23,21 +23,14 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
   </li>
 </ul>
 
+[Image of the game's starting position](../images/Dungeon of Squares Images/base screen.png)
+<br>
+
+[Image of the combat screen](../images/Dungeon of Squares Images/Combat.png)
+<br>
+
 [GitHub](https://github.com/DuncanHook/Dungeon-of-Squares)
 <br>
-
-![Image](../images/Dungeon of Squares Images/base screen.png)
-
-<br>
-
-
-<img src="images/Dungeon of Squares Images/base screen.png?raw=true"/>
-<br>
-
-<img src="images/Dungeon of Squares Images/Base Screen Moved.png?raw=true"/>
-<br>
-
-<img src="images/Dungeon of Squares Images/Combat.png?raw=true"/>
 
 ---
 
