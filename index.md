@@ -26,9 +26,10 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
 [GitHub](https://github.com/DuncanHook/Dungeon-of-Squares)
 <br>
 
-[Image](../images/Dungeon of Squares Images/base screen.png)
+![Image](../images/Dungeon of Squares Images/base screen.png)
 
 <br>
+
 
 <img src="images/Dungeon of Squares Images/base screen.png?raw=true"/>
 <br>
