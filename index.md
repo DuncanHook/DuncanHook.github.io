@@ -65,7 +65,7 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
 
 An example of the what the program outputs with a 34 person list: <br>
 
-<embed src="pdf/Smallgroups by Week.pdf" width="500" height="500" type="application/pdf">
+<embed src="pdf/Smallgroups by Week.pdf" width="600" height="500" type="application/pdf">
 
 <br>
 
