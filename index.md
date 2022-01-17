@@ -63,8 +63,10 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
   </li>
 </ul>
 
-An example of the what the program outputs.
-<embed src="pdf/smallgroups.txt" width="500" height="500">
+An example of the what the program outputs with a 34 person list: <br>
+<embed src="pdf/Smallgroups by Week.pdf" width="500" height="500" 
+ type="application/pdf">
+ <br>
 
 [GitHub](https://github.com/DuncanHook/Small-Group-Maker)
 <br>
