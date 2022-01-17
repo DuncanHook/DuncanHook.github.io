@@ -63,6 +63,10 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
   </li>
 </ul>
 
+An example of the what the program outputs.
+<embed src="pdf/smallgroups.txt" width="500" height="500" 
+ type="application/txt>
+
 [GitHub](https://github.com/DuncanHook/Small-Group-Maker)
 <br>
 
