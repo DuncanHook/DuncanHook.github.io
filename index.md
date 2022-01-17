@@ -45,7 +45,7 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
   </li>
 </ul>
   
-[Image of the Alien vs the Boxer](../images/Swift Strike/Alien v Boxer.png)
+[Image of the Alien vs the Boxer](../images/SwiftStrike/Alien v Boxer.png)
 
 <br>
 
