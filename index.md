@@ -41,7 +41,7 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
   </li>
   <li>
     outside of my time working with our sound department I helped ideate our three characters, as well as making our game xbox compatible and testing the controls and everything about the game on the xbox. <br>
-    created as a group
+    Created as a group
   </li>
 </ul>
   
