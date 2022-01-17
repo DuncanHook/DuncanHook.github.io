@@ -37,8 +37,10 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
 
 <ul>
   <li>
-    A small game created in unity. This project was the final project of my game development class, in which I took on a producer style role. Our class was split into two by the teacher, and the team I was on didn't have anybody familiar with making anything sound related. So I asked the teacher if I could reach out to the music department in our school to see if I could requisite some help, in which he said if the music department/teachers were okay with that then I could. So I approached the music department, made my case, and was able to enlist two lovely students from the music department who effectively had their final for their audio production class replaced with our game. My role from then on was to act as an intermediary between my team and our two audio folks, bringing the needs of my team to them, and vice versa. I then implemented the music and sound effects into our game. <br> 
-    outside of my time doing sounds I helped ideate our three characters, as well as making our game xbox compatible and testing the controls and everything about the game on the xbox. <br>
+    A small game created in unity. This project was the final project of my game development class, in which I took on a producer style role. Our class was split into two by the teacher, and the team I was on didn't have anybody familiar with making anything sound related. So I asked the teacher if I could reach out to the music department in our school to see if I could requisite some help, in which he said if the music department/teachers were okay with that then I could. So I approached the music department, made my case, and was able to enlist two lovely students from the music department who effectively had their final for their audio production class replaced with our game. My role from then on was to act as an intermediary between my team and our two audio folks, bringing the needs of my team to them, and vice versa. I then implemented the music and sound effects into our game. 
+  </li>
+  <li>
+    outside of my time working with our sound department I helped ideate our three characters, as well as making our game xbox compatible and testing the controls and everything about the game on the xbox. <br>
     created as a group
   </li>
 </ul>
