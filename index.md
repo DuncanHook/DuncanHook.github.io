@@ -64,8 +64,7 @@ For a short demonstration of aYo in action [Click Here](https://youtu.be/NI9LOug
 </ul>
 
 An example of the what the program outputs.
-<embed src="pdf/smallgroups.txt" width="500" height="500" 
- type="application/txt>
+<embed src="pdf/smallgroups.txt" width="500" height="500">
 
 [GitHub](https://github.com/DuncanHook/Small-Group-Maker)
 <br>
