@@ -10,7 +10,6 @@
   </li>
 </ul> 
 <br>
-
 ---
 ### aYo, the Voice Assistant for Software Developers
 
