@@ -6,7 +6,7 @@
     An internal command line tool built for Disney Streaming that was used to allow any user to build, run, and test for any platform. It would pull down appropriate binary versions for any reqeuested version and supported platform. 
   </li>
   <li>
-    Supported personal profiles to concatonate all specifications for a specific build (I.E. allowed a user to have a collection of Environment Variables, a particular version, and a platform) and refference it easier with a single flag instead of many individual flags. This made testing things much quicker and more convenient as it made testing look like: `Tool Run --profile1` instead of `Tool Run --flag1 --flag2 --flag3`.
+    Supported personal profiles to concatonate all specifications for a specific build (I.E. allowed a user to have a collection of Environment Variables, a particular version, and a platform) and refference it easier with a single flag instead of many individual flags. This made testing things much quicker and more convenient as it made testing look like: <b>Tool Run --profile1</b> instead of <b>Tool Run --flag1 --flag2 --flag3</b>.
   </li>
 </ul> 
 <br>
