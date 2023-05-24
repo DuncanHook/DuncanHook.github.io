@@ -1,5 +1,17 @@
 ## Portfolio
 ---
+### Disney Internal Deployment Tool
+<ul>
+  <li>
+    An internal command line tool built for Disney Streaming that was used to allow any user to build, run, and test for any platform. It would pull down appropriate binary versions for any reqeuested version and supported platform. 
+  </li>
+  <li>
+    Supported personal profiles to concatonate all specifications for a specific build (I.E. allowed a user to have a collection of Environment Variables, a particular version, and a platform) and refference it easier with a single flag instead of many individual flags. This made testing things much quicker and more convenient as it made testing look like: `Tool Run --profile1` instead of `Tool Run --flag1 --flag2 --flag3`.
+  </li>
+</ul> 
+<br>
+
+---
 ### aYo, the Voice Assistant for Software Developers
 
 <ul>
@@ -74,6 +86,36 @@ An example of the what the program outputs with a 34 person list: <br>
 
 ---
 
+### Time Complexity Analysis
+
+<ul>
+  <li>
+   A paper which covers a time complexity analysis of recursive and iterative implementations of a power function. The code is written in C++ and it was graphed using RStudio <br> Created individually.
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/TimeComplexityAnalysis.pdf" width="500" height="500" 
+ type="application/pdf">
+<br>
+
+---
+
+### Long Distance Deployer System Specification
+
+<ul>
+  <li>
+   A paper which covers a theoretical system that would allow an individual to work on a project from home using their work equipment using a virtual machine. A system which would allow employees to work from home given the need to, but allow them to use their possibly much more powerful computers that they have at the office. <br> Created individually.
+  </li>
+</ul>
+
+<br>
+<embed src="pdf/SystemSpecification.pdf" width="500" height="500" 
+ type="application/pdf">
+<br>
+
+---
+
 ### Prolog Geometry
 
 <ul>
@@ -114,37 +156,6 @@ An example of the what the program outputs with a 34 person list: <br>
 [GitHub](https://github.com/DuncanHook/Prolog-Geometry)
 <br>
 <img src="images/Rust.png?raw=true"/>
-
----
-
-### Time Complexity Analysis
-
-<ul>
-  <li>
-   A paper which covers a time complexity analysis of recursive and iterative implementations of a power function. The code is written in C++ and it was graphed using RStudio <br> Created individually.
-  </li>
-</ul>
-
-<br>
-<embed src="pdf/TimeComplexityAnalysis.pdf" width="500" height="500" 
- type="application/pdf">
-<br>
-
----
-
-### Long Distance Deployer System Specification
-
-<ul>
-  <li>
-   A paper which covers a theoretical system that would allow an individual to work on a project from home using their work equipment using a virtual machine. A system which would allow employees to work from home given the need to, but allow them to use their possibly much more powerful computers that they have at the office. <br> Created individually.
-  </li>
-</ul>
-
-<br>
-<embed src="pdf/SystemSpecification.pdf" width="500" height="500" 
- type="application/pdf">
-<br>
-
 ---
 
 ### Microsoft AI-100 Certification
