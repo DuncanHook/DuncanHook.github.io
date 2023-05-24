@@ -9,7 +9,8 @@
     Supported personal profiles to concatonate all specifications for a specific build (I.E. allowed a user to have a collection of Environment Variables, a particular version, and a platform) and reference it easier with a single flag instead of many individual flags. This made testing things much quicker and more convenient as it made testing look like: <b>Tool Run --profile1</b> instead of <b>Tool Run --flag1 --flag2 --flag3</b>.
   </li>
 </ul> 
-<br>
+
+
 ---
 ### aYo, the Voice Assistant for Software Developers
 
