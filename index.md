@@ -1,5 +1,18 @@
 ## Portfolio
 ---
+### NetEase Internal Testing Support Tool
+<ul> 
+  <li>
+    An internal tool built for NetEase Games and their partner studios, allowing any user to setup template Jira tickets for their team, and then create and post jira tickets with media attachments related to their current testing.
+  </li>
+  <li>
+    Allowed users to setup a custom keybind that when hit, would take a screenshot, capture the last 30+ seconds of footage and attach this media to a pre-setup jira ticket template, which then could be posted to their associated team's template. Supported testing on PC, Xbox, and Playstation, and additionally had an Unreal Engine Plugin that helped with easy integration for users.
+  </li>
+  <li>
+    Primary Language: JavaScript
+  </li>
+</ul>
+---
 ### Disney Internal Deployment Tool
 <ul>
   <li>
