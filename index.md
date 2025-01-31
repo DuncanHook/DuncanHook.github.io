@@ -13,6 +13,22 @@
   </li>
 </ul>
 ---
+
+### NetEase Internal Automated Testing Management Tool
+<ul>
+  <li>
+    An internal web based tool built for NetEase Games and their partner studios, allowing users to easily manage their automated testing pipeline, and recieve and parse the resulting logs from Jenkins. 
+  </li>
+  <li>
+    Allowed users to setup a Perforce connection for their current Unreal Engine project and manage running automated tests on Jenkins. Allowed users to setup test groups to send to jenkins (allows running of a group of tests A, and B, or a group of A, and C for example). Then would receive the test logs from Jenkins allowing users to easily see their tests fail and successes all in one place, additionally allowed users to easily see what stage their tests failed on assuming it did fail.
+  </li>
+  <li>
+    Primary Languages: Frontend - JavaScript, Backend - Python, Database - SQL
+  </li>
+</ul>
+
+---
+
 ### Disney Internal Deployment Tool
 <ul>
   <li>
