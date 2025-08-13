@@ -119,21 +119,6 @@ An example of the what the program outputs with a 34 person list: <br>
 
 ---
 
-### Time Complexity Analysis
-
-<ul>
-  <li>
-   A paper which covers a time complexity analysis of recursive and iterative implementations of a power function. The code is written in C++ and it was graphed using RStudio <br> Created individually.
-  </li>
-</ul>
-
-<br>
-<embed src="pdf/TimeComplexityAnalysis.pdf" width="500" height="500" 
- type="application/pdf">
-<br>
-
----
-
 ### Long Distance Deployer System Specification
 
 <ul>
@@ -190,19 +175,6 @@ An example of the what the program outputs with a 34 person list: <br>
 <br>
 <img src="images/Rust.png?raw=true"/>
 ---
-
-### Microsoft AI-100 Certification
-
-<ul>
-  <li>
-   A certification earned for demonstrating profiency of Microsoft's Azure systems. 
-  </li>
-</ul>
-
-<br>
-<embed src="pdf/AI-100certification.pdf" width="500" height="500" 
- type="application/pdf">
-<br>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
